@@ -5,6 +5,10 @@ class School
     @roster = []
   end
   
+  def add_student()
+    
+  end
+  
   def name
     @name
   end
