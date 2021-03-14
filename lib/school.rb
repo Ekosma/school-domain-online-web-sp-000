@@ -6,7 +6,7 @@ class School
   end
   
   def add_student(name, grade)
-    if 
+    if roster.has_key?()
   end
   
   def name
