@@ -28,10 +28,6 @@ class School
     @roster
   end
   
-  def grade
-    @grade
-  end
-  
   def sort
     @sort
   end
