@@ -13,7 +13,7 @@ class School
   end
   
   def grade(grade_level)
-    @roster[]
+    @roster[grade]
   end
   
   def name
