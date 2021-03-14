@@ -17,4 +17,7 @@ class School
     @roster
   end
   
+  def grade
+    @grade
+  end
 end
