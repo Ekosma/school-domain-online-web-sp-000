@@ -16,8 +16,8 @@ class School
     @roster[grade_level]
   end
   
-  def sort(elements)
-    @rooster[elements].sort
+  def sort
+    
   end
   
   def name
