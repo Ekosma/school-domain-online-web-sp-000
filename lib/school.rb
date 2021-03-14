@@ -1,5 +1,5 @@
 class School
   
-  def initialiser()
+  def initialize()
   
 end
