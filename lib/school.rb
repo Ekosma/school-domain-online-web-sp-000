@@ -19,4 +19,9 @@ class School
   def roster
     @roster
   end
+  
+  def grade
+    @grade
+  end
+  
 end
