@@ -7,7 +7,7 @@ class School
   
   def add_student(name, grade)
     if roster.include?(grade) == false 
-      @roster[]
+      @roster[grade] << name
     else 
       @roster => {:grade => [name]}
     end
